@@ -5,7 +5,7 @@
 
 /**
  *
- * @author saada
+ * @author saadaggygubuhvh 
  */
 import java.util.Scanner;
 public class L2Q2 {
