@@ -31,10 +31,11 @@ public class L5Q1 {
             if (students [u] < lowest)
                 lowest = students [u];
             
-            average += (students[u] / numStudents);
+            average += (double) (students[u] / numStudents);
             u++;
         }
         
+        System.out.println("Scores:" + students[u]);
         System.out.println("Highest score:" + highest);
         System.out.println("Lowest score:" + lowest);
         System.out.println("Average score:" + average);
