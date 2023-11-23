@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public static L5extraQ {
+	public static void main (String [] args)
+	{
+		Scanner g = new Scanner (System.in);
+		
+		System.out.print("Please enter a string of alphabates:");
+		String alphabates = g.nextLine();
+
+		alphabets.length;
+
+		System.out.print("Please an integer for shifting:");
+		int shift = g.nextInt();
+
+				
+		
+			while (n <= alphabets.length)
+				{
+						
+				}
+		
+		
+
+
+
+
+
+
+
+	}
+}
